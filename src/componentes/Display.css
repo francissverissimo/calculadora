@@ -1,0 +1,10 @@
+.tela {
+    color: teal;
+    display: flex;
+    background-color: white;
+    justify-content: flex-end;
+    padding: 0 10px;
+    font-size: 60px;
+    grid-column: span 4;
+    border-bottom: solid 5px teal;
+}
